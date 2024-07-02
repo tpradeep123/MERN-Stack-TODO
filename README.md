@@ -1,2 +1,14 @@
-# MERN-Stack-TODO
-The MERN stack Todo app lets users add, edit, and delete tasks with MongoDB, Express.js, React.js, and Node.js. It offers a dynamic interface, task prioritization, deadlines, and status updates for efficient task management.
+MERN Stack Todo Application
+Description
+A web-based task management application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Users can add, edit, delete, and prioritize tasks, set deadlines, and update task statuses.
+
+Features
+Add, edit, and delete tasks
+Task prioritization
+Set deadlines for tasks
+Update task statuses
+Responsive and dynamic user interface
+Tech Stack
+Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB
